@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Redux_ShopCart/static/css/main.b95d63f6.css",
+    "main.js": "/Redux_ShopCart/static/js/main.671f5060.js",
+    "static/js/787.639a1216.chunk.js": "/Redux_ShopCart/static/js/787.639a1216.chunk.js",
+    "index.html": "/Redux_ShopCart/index.html",
+    "main.b95d63f6.css.map": "/Redux_ShopCart/static/css/main.b95d63f6.css.map",
+    "main.671f5060.js.map": "/Redux_ShopCart/static/js/main.671f5060.js.map",
+    "787.639a1216.chunk.js.map": "/Redux_ShopCart/static/js/787.639a1216.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b95d63f6.css",
+    "static/js/main.671f5060.js"
+  ]
+}
